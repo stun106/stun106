@@ -2,7 +2,7 @@
 <h2>Um pouco sobre mim</h2>
 💻 Atualmente estudando Lógica/Algoritmos,HTML,CSS e JS
 
-🧗‍♂️ Sou um aprendiz da minha vida que aprendi que o segredo de tudo está em sua percepção, no entanto e principalmente no ouvir, soa como um aprender, e saber usar-lo aprendiz, sentir ao tanto aprender com sucesso!
+🧗‍♂️ Sou um eterno aprendiz, na minha vida aprendi que o segredo de tudo está em sua percepção, no entanto e principalmente no ouvir, soa como um aprender, e saber usar-lo aprendiz, sentir ao tanto aprender com sucesso!
 
 <img src="https://camo.githubusercontent.com/00c9057088d4dadf977229eb59fe166e135c0c51d5359c777011053ce80178d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f6c65656f5f67616d612f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/iamjose_jr/" style="max-width: 100%;">
 <div>
