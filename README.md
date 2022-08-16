@@ -1,6 +1,6 @@
 <h1>Salve pessoal, eu sou o José!</h1>
 <h2>Um pouco sobre mim</h2>
-💻 Atualmente estudando Lógica/Algoritmos,HTML,CSS e JS
+💻 atualmente estudando as raizes do backend! 
 
 🧗‍♂️ Sou um eterno aprendiz! na minha vida aprendi que o segredo de tudo está em nossa percepção, então é muito importante aprendermos respirar, observar, e principalmente ouvir, isso soa como um algoritmo para o conhecimento, e aplicando isso conseguimos absorver o maximo de informações possivel e obter o tão sonhado sucesso!
 
