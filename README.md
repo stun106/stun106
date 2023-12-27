@@ -1,6 +1,8 @@
 <h1>Salve pessoal, eu sou o José!</h1>
 <h2>Um pouco sobre mim</h2>
-💻 atualmente estudando as raizes do backend! 
+💻 Desenvolvedor BackEnd! 
+🏀 Jogador de basquete
+🛼 Patinador
 
  Eterno aprendiz em busca do conhecimento! Acredito no poder da percepção. Respirar, observar e ouvir são meus algoritmos para o sucesso. Aplico esses princípios no meu caminho, absorvendo o máximo de informações. 💡✨ 
  
