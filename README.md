@@ -21,7 +21,6 @@
   <img align="center" width= 60 alt="intellij" src="https://github.com/stun106/stun106/assets/99427933/18d0ae25-dfc1-41ab-86ea-411e37667b48" />
   <img align="center" width= 60 alt="intellij" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
   </div>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=stun106&show_icons=true&theme=radical)](https://github.com/stun106)
-
+  
  
   
