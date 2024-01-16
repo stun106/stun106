@@ -5,7 +5,7 @@
 🛼 Patinador<br>
 
  Eterno aprendiz em busca do conhecimento! Acredito no poder da percepção. Respirar, observar e ouvir são meus algoritmos para o sucesso. Aplico esses princípios no meu caminho, absorvendo o máximo de informações. 💡✨ 
- 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=radical)](https://github.com/stun106)
 <a href="https://www.instagram.com/iamjose_jr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram Badge" style="max-width:100%"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamjosejr/)
 
