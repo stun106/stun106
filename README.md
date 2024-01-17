@@ -4,7 +4,7 @@
 🏀 Jogador de basquete<br>
 🛼 Patinador<br>
 
- Eterno aprendiz em busca do conhecimento! Acredito no poder da percepção. Respirar, observar e ouvir são meus algoritmos para o sucesso. Aplico esses princípios no meu caminho, absorvendo o máximo de informações. 💡✨ 
+ Eterno aprendiz em busca do conhecimento! Acredito no poder da percepção. Respirar, observar e ouvir são meus algoritmos para o sucesso. Aplico esses princípios no meu caminho, absorvendo o máximo de informações. 💡✨ <br>
 <a href="https://www.instagram.com/iamjose_jr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram Badge" style="max-width:100%"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamjosejr/)
 
